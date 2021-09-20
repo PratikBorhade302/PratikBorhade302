@@ -7,9 +7,14 @@
 An Engineering student contributing to open source projects. Started my open source journey by contributing to Blender 3D. I received a Development Grant from Blender for helping in bug triaging and general development support. I'm passinoate about devops, computer graphics and learning new things
 
 **Tools** </br> 
-![Unity](https://img.shields.io/badge/-unity-black?style=flat-square&logo=unity)
+![Unity](https://img.shields.io/badge/-unity-grey?style=flat-square&logo=unity)
 ![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=blender)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Subversion](https://img.shields.io/badge/-Subversion-black?style=flat-square&logo=subversion)
+![Docker](https://img.shields.io/badge/-docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-kubernetes-black?style=flat-square&logo=kubernetes)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio)
+</br>
 
 **Stats**
 ---
