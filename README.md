@@ -8,14 +8,16 @@ An Engineering student contributing to open source projects. Started my open sou
 
 **Tools:** 
 </br>
-![Unity](https://img.shields.io/badge/-unity-grey?style=flat-square&logo=unity)
+![Unity](https://img.shields.io/badge/-unity-black?style=flat-square&logo=unity)
 ![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=blender)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git)
 ![Subversion](https://img.shields.io/badge/-Subversion-black?style=flat-square&logo=subversion)
-![Docker](https://img.shields.io/badge/-docker-black?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-kubernetes-black?style=flat-square&logo=kubernetes)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio)
-![CMake](https://img.shields.io/badge/-CMake-black?style=flat-square&logo=cmake)
+![Docker](https://img.shields.io/badge/-Docker-skyblue?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=android)
+![CMake](https://img.shields.io/badge/-CMake-red?style=flat-square&logo=cmake)
+![FireBase](https://img.shields.io/badge/-FireBase-black?style=flat-square&logo=firebase)
+![Adobexd](https://img.shields.io/badge/-AdobeXD-black?style=flat-square&logo=adobexd)
 </br>
 
 **Languages:**
