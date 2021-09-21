@@ -18,4 +18,8 @@ An Engineering student contributing to open source projects. Started my open sou
 
 **Stats**
 ---
- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=pratikborhade302&show_icons=true&theme=tokyonight" />
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=pratikborhade302&show_icons=true&theme=dark" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikborhade302&theme=dark" />
+</p>
