@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Pratik%20Borhade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-borhade-0620b51b0/)](https://www.linkedin.com/in/pratik-borhade-0620b51b0/)
 [![Twitter](https://img.shields.io/badge/-PratikBorhade6-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/PratikBorhade6)](https://twitter.com/PratikBorhade6)
 [![Gmail](https://img.shields.io/badge/-pratikborhade302@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratikborhade302@gmail.com)](mailto:pratikborhade302@gmail.com)</br>
-An Engineering student contributing to open source projects. Started my open source journey by contributing to Blender 3D. I received a Development Grant from Blender for helping in bug triaging and general development support. I'm passinoate about devops, computer graphics and learning new things
+An Engineering student contributing to open source projects. Started my open source journey by contributing to Blender 3D. I received a Development Grant from Blender for helping in bug triaging and general development support. I'm passionate about devops, computer graphics and learning new things
 
 **Tools:** 
 </br>
