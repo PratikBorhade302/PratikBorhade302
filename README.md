@@ -1,6 +1,6 @@
 ### Hey, I'm Pratik Borhade 👋
 ---
-[![Blender](https://img.shields.io/badge/-PratikPB2123-black?style=flat-square&logo=blender&logoColor=white&link=https://twitter.com/PratikPB2123)](https://developer.blender.org/p/PratikPB2123/)
+[![Blender](https://img.shields.io/badge/-PratikPB2123-black?style=flat-square&logo=blender&logoColor=white&link=https://twitter.com/PratikPB2123)](https://projects.blender.org/PratikPB2123)
 [![LinkedIn](https://img.shields.io/badge/-Pratik%20Borhade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-borhade-0620b51b0/)](https://www.linkedin.com/in/pratik-borhade-0620b51b0/)
 [![Twitter](https://img.shields.io/badge/-PratikBorhade6-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/PratikBorhade6)](https://twitter.com/PratikBorhade6)
 [![Gmail](https://img.shields.io/badge/-pratikborhade302@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratikborhade302@gmail.com)](mailto:pratikborhade302@gmail.com)</br>
