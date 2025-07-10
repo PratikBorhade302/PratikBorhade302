@@ -4,9 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/-Pratik%20Borhade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-borhade-0620b51b0/)](https://www.linkedin.com/in/pratik-borhade-0620b51b0/)
 [![Twitter](https://img.shields.io/badge/-PratikBorhade6-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/PratikBorhade6)](https://twitter.com/PratikBorhade6)
 [![Gmail](https://img.shields.io/badge/-pratikborhade302@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratikborhade302@gmail.com)](mailto:pratikborhade302@gmail.com)</br>
-An Engineering student contributing to open source projects.</br>
-Triager and Developer at Blender (Dev Grant).</br>
-I'm passinoate about DevOps, Computer Graphics and learning new things</br>
+
+Triager and Developer at Blender. Mostly playing around with Grease Pencil and UI. </br>
+I'm passinoate about LLMs, Computer Graphics and learning new things </br>
 
 **Tools:** 
 </br>
